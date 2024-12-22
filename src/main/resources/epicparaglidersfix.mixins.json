@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ombremoon.epicparaglidersfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "epicparaglidersfix.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
